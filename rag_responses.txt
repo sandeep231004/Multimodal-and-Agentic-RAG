@@ -1,0 +1,95 @@
+Q: What is the e-Tender notice number and the purpose of the tender mentioned in the document?
+
+A: According to the provided context, the e-Tender notice number is NITJ/DRC/PUR/TT/36/2024. The purpose of the tender is not explicitly mentioned in the provided document, but it appears to be related to the procurement of equipment or items, as indicated by the Annexure 'A' (Specifications of the Equipment) and the Performa for performance statement.
+
+--------------------------------------------------------------------------------
+
+Q: What are the eligibility criteria for bidders to participate in this tender?
+
+A: I don't have enough information to answer this question. The provided context does not mention the eligibility criteria for bidders to participate in this tender.
+
+--------------------------------------------------------------------------------
+
+Q: What are the deadlines for submitting the online bids and physically submitting the tender fee and EMD?
+
+A: According to the context, the deadlines for submitting the online bids and physically submitting the tender fee and EMD are:
+
+* Online bids: Last date of submission of online bids is 06.11.2024 up to 03:00 PM.
+* Physical submission of Tender Fee and EMD: End Date is 07.11.2024 up to 03:00 PM.
+
+--------------------------------------------------------------------------------
+
+Q: What is the role of Annexure-G in determining supplier eligibility, and how is local content defined?
+
+A: According to the provided context, Annexure-G is the "SELF DECLARATION [For Local Content of Products, Services or Works]" which is used to determine supplier eligibility. This annexure is used to declare the category of supplier (Class I, Class II, or Non-local supplier) based on the local content of the products or services being offered.
+
+Local content is defined as the percentage of local content added at a specific location. The categories of suppliers are:
+
+* Class I local supplier: has local content equal to more than 50%.
+* Class II local supplier: has local content more than 20% but less than 50%.
+* Non-local supplier: has local content less than or equal to 20%.
+
+--------------------------------------------------------------------------------
+
+Q: What is the payment structure for the successful supplier as mentioned in the document?
+
+A: According to the document, the payment structure for the successful supplier is as follows:
+
+"6. Payment:
+
+(a) 100% payment will be made against physical delivery, inspection, installation, training of the Equipment/Machinery/Instrument etc. in the institute, receipt of satisfactory working report of the Equipment / Machinery/Instrument etc. and receipt of Performance Bank Guarantee @ 3%."
+
+--------------------------------------------------------------------------------
+
+Q: What are the warranty obligations for suppliers as outlined in Annexure-F?
+
+A: According to Annexure-F, the warranty obligations for suppliers are as follows:
+
+* The warranty shall be for a period of [number of years] years for and starting from the date of satisfactory installation, commissioning, and handing over of the Equipment/Item and of the works conducted therewith covered under the supply order in working order.
+* During the warranty period, the supplier shall provide free "after sale service" and the replacement of any part(s) of the Equipment/Item or rectification of defects of work of the Equipment/Item will be free of cost.
+* The replacement of parts shall be arranged by the supplier, at their own cost and responsibility.
+* The warranty shall begin only from the date of satisfactory and faultless functioning of the Equipment/Item for 60 days at NIT Jalandhar premises.
+* The supplier shall provide at least [number of days] days of after-sales service during the warranty period.
+
+--------------------------------------------------------------------------------
+
+Q: How is the technical bid evaluated, and what criteria are used for shortlisting bidders?
+
+A: According to the provided context, the technical bid evaluation is done in two stages:
+
+Stage – I (Technical Evaluation):
+
+The Institute shall evaluate the technical bid(s) to determine the following:
+
+* Whether the bid qualifies the essential eligibility criteria or not
+* Whether the tenderer has submitted the EMD & Tender fee or not
+* Any computational errors have been made or not
+* All the documents have been properly filled or otherwise
+* All the documents have been submitted/uploaded with the technical bid or not
+* The specifications, Make/Model, Catalogue of quoted Equipment/Item are as per requirement tender specifications or not
+* Authorization of Dealer/Distributor/Exclusive Agent certificate from manufacturer is in order or not
+* Sales & service policy of equipment/item during warranty period and after warranty period will also be seen
+* Location of their authorized service center will also be seen for evaluation, etc.
+
+After the evaluation of the technical bid(s), a list of the qualifying tenderer(s)/bidders shall be made. The short-listed tenderer(s) will be informed of the date, time, and place of opening of financial bid(s) and they may attend or depute their authorized representative(s) to attend the schedule of opening of financial bid(s) on the scheduled date and time, if they wish to do so.
+
+--------------------------------------------------------------------------------
+
+Q: What penalties are imposed for delays in delivery or non-performance by the supplier?
+
+A: According to the context, the Director of NIT Jalandhar reserves the right to impose a penalty of 0.5% (Half) per cent per week on account of delay in supply, if delivery is received after the expiry of the original delivery period. The total penalty will not exceed 10% of the value of the delayed goods.
+
+--------------------------------------------------------------------------------
+
+Q: What does Annexure-E specify about the blacklisting or debarment of suppliers?
+
+A: According to Annexure-E, it is a Declaration Regarding Blacklisting/Debarring for taking part in Tender. The declaration states that the firm/agency, namely M/s., has not been blacklisted or debarred in the past by the Union/State Government or any organization from taking part in Government tenders in India. Alternatively, it also allows for the declaration that the firm/agency was blacklisted or debarred by the Union/State Government or any organization from taking part in Government tenders for a specified period.
+
+--------------------------------------------------------------------------------
+
+Q: What does Annexure-D require from suppliers regarding manufacturer authorization?
+
+A: According to the provided context, Annexure "D" requires suppliers to provide a Manufacturer's Authorization Form. This form authorizes agents/distributors to bid, negotiate, and conclude orders with the institute on behalf of the manufacturer. The manufacturer is responsible for the tender/agreement and guarantees the entire unit against defects of manufacture, workmanship, and poor quality of components.
+
+--------------------------------------------------------------------------------
+

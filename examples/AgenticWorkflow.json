@@ -1,0 +1,52 @@
+{
+    "Agentic Workflow": [
+      {
+        "Q": "What is the e-Tender notice number and the purpose of the tender mentioned in the document?",
+        "A": "The e-Tender notice number is NITJ/DRC/PUR/TT/36/2024. Its purpose is the fabrication of a machine for continuous production of textile waste-based composite materials for the Department of Textile Technology."
+      },
+      {
+        "Q": "What are the eligibility criteria for bidders to participate in this tender?",
+        "A": "The bidder should not have been debarred and/or blacklisted by any Central Government or any State Government Department(s). Additionally, the bidder should provide an affidavit as per format given in Annexure-E to support this claim."
+      },
+      {
+        "Q": "What are the deadlines for submitting the online bids and physically submitting the tender fee and EMD?",
+        "A": "The deadline for submission of bid is not explicitly mentioned in the given context. However, it is mentioned that the institute may extend the deadline for submission of tender in case of an amendment, but the original deadline is not specified."
+      },
+      {
+        "Q": "What is the role of Annexure-G in determining supplier eligibility, and how is local content defined?",
+        "A": "The document does not provide information on the role of Annexure-G in determining supplier eligibility beyond the fact that it is a self-declaration form for local content. Additionally, the definition of local content is limited to being the percentage of local content, which is less than or equal to 20%."
+      },
+      {
+        "Q": "What is the payment structure for the successful supplier as mentioned in the document?",
+        "A": "The payment structure for the successful supplier is not explicitly mentioned in the provided document. The document only outlines the tender process, requirements, and terms and conditions, but does not provide information on the payment structure."
+      },
+      {
+        "Q": "What are the warranty obligations for suppliers as outlined in Annexure-F?",
+        "A": " The document does not provide specific information on the warranty obligations for suppliers as outlined in Annexure-F. The provided information is a general description of a certificate of warranty, but it does not specify the exact obligations."
+      },
+      {
+        "Q": "How is the technical bid evaluated, and what criteria are used for shortlisting bidders?",
+        "A": "The technical bid is evaluated based on the detailed bill of material/quantity provided with the price break up of each item in the online price bid, as per the requirement of the tendered specification of the equipment. The criteria used for shortlisting bidders include the bidder not having been debarred and/or blacklisted by any Central Government or any State Government Department(s), as supported by an affidavit as per format given in Annexure-E"
+      },
+      {
+        "Q": "What penalties are imposed for delays in delivery or non-performance by the supplier?",
+        "A": {
+          "Penalties": [
+            "A penalty of 0.5% per week on account of delay in supply, with a maximum total penalty of 10% of the value of the delayed goods.",
+            "If there is a delay in rectifying a defect, the supplier shall pay a penalty equivalent to 0.5% of the FOB/CIF value of the Equipment/Item for every week or part thereof delay in rectifying the defect.",
+            "Debarment for up to 2 years, along with such other actions as may be permissible under law."
+          ]
+        }
+      }
+      ,
+      {
+        "Q": "What does Annexure-E specify about the blacklisting or debarment of suppliers?",
+        "A": "The document does not provide information on Annexure-E specifying about the blacklisting or debarment of suppliers."
+      },
+      {
+        "Q": "What does Annexure-D require from suppliers regarding manufacturer authorization?",
+        "A": "The document does not provide information on what Annexure-D requires from suppliers regarding manufacturer authorization. The provided text appears to be a sample manufacturer's authorization form, but it does not specify the requirements."
+      }
+    ]
+  }
+  
