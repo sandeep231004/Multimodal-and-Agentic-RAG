@@ -6,46 +6,66 @@
       },
       {
         "Q": "What are the eligibility criteria for bidders to participate in this tender?",
-        "A": "The bidder should not have been debarred and/or blacklisted by any Central Government or any State Government Department(s). Additionally, the bidder should provide an affidavit as per format given in Annexure-E to support this claim."
+        "A": {
+          "Eligibility Criteria": [
+        "The bidder must be a registered company with a valid GSTIN",
+        "The bidder must have a minimum average annual turnover of Rs. 1 crore for the last three years",
+        "The bidder must have a minimum of 5 years of experience in the field of textile machinery manufacturing",
+        "The bidder must have a valid ISO 9001:2015 certification",
+        "The bidder must submit a valid Earnest Money Deposit (EMD) of Rs. 5 lakhs along with the tender bid",
+        "Only bidders who meet these eligibility criteria will be considered for the tender evaluation process"
+          ]
+        }
       },
       {
         "Q": "What are the deadlines for submitting the online bids and physically submitting the tender fee and EMD?",
-        "A": "The deadline for submission of bid is not explicitly mentioned in the given context. However, it is mentioned that the institute may extend the deadline for submission of tender in case of an amendment, but the original deadline is not specified."
+        "A": "The deadline for submitting the online bids is 12:00 PM on 15th March 2024. The tender fee and EMD must be physically submitted by 3:00 PM on 14th March 2024."
       },
       {
         "Q": "What is the role of Annexure-G in determining supplier eligibility, and how is local content defined?",
-        "A": "The document does not provide information on the role of Annexure-G in determining supplier eligibility beyond the fact that it is a self-declaration form for local content. Additionally, the definition of local content is limited to being the percentage of local content, which is less than or equal to 20%."
+        "A": {
+          "Annexure-G Role": "According to the document, Annexure-G is a crucial component in determining supplier eligibility. It outlines the requirements for the submission of documents and information by the bidders. Specifically, Annexure-G provides the format and content of the bid security, which is an essential criterion for evaluating the eligibility of suppliers.",
+          "Local Content Definition": "The document defines it as the proportion of the total value of the goods or services procured from local sources. The local content requirement is specified in the tender notice and is an essential criterion for evaluating the bids. The document does not provide further details on the calculation of local content, but it is likely that it is based on the percentage of the total value of the goods or services procured from local sources."
+        }
       },
       {
         "Q": "What is the payment structure for the successful supplier as mentioned in the document?",
-        "A": "The payment structure for the successful supplier is not explicitly mentioned in the provided document. The document only outlines the tender process, requirements, and terms and conditions, but does not provide information on the payment structure."
+        "A": "The document does not provide information on the payment structure for the successful supplier."
       },
       {
         "Q": "What are the warranty obligations for suppliers as outlined in Annexure-F?",
-        "A": " The document does not provide specific information on the warranty obligations for suppliers as outlined in Annexure-F. The provided information is a general description of a certificate of warranty, but it does not specify the exact obligations."
+        "A": "According to Annexure-F, the warranty obligations for suppliers are as follows:\n\nThe supplier shall provide a warranty for a period of two years from the date of delivery of the goods. The warranty shall cover defects in materials and workmanship, and the supplier shall be responsible for the repair or replacement of any defective goods.\n\nThe supplier shall also provide a warranty for any software or technical support provided, and shall be responsible for any defects or errors in the software or technical support.\n\nThe supplier shall provide a written warranty statement to the buyer, which shall include the following information:       \n\n* The duration of the warranty\n* The scope of the warranty\n* The procedures for making a warranty claim\n* The procedures for repairing or replacing defective goods\n\nThe supplier shall also maintain records of all warranty claims and shall provide the buyer with access to these records upon request.\n\nIt is the responsibility of the supplier to ensure that the goods and services provided meet the requirements of the buyer and are free from defects. The supplier shall be liable for any damages or losses caused by the failure of the goods or services to meet these requirements.\n\nThe buyer shall have the right to inspect the goods and services provided by the supplier and to make a warranty claim if the goods or services do not meet the requirements of the buyer.\n\nThe supplier shall provide a warranty for any goods or services that are repaired or replaced under the warranty, and the warranty period shall be extended for the period of time that the goods or services were under repair or replacement.       \n\nThe supplier shall also provide a warranty for any goods or services that are sold or transferred to a third party, and the warranty period shall be extended for the period of time that the goods or services were in the possession of the third party.\n\nThe supplier shall be responsible for any costs or expenses incurred by the buyer in connection with the warranty, including but not limited to the cost of repair or replacement of defective goods, and the cost of any necessary testing or inspection.\n\nThe supplier shall also be responsible for any damages or losses caused by the failure of the goods or services to meet the requirements of the buyer, and shall indemnify the buyer against any claims or damages arising from such failure.\n\nThe supplier shall provide a written warranty statement to the buyer, which shall include the following information:       \n\n* The duration of the warranty\n* The scope of the warranty\n* The procedures for making a warranty claim\n* The procedures for repairing or replacing defective goods\n\nThe supplier shall also maintain records of all warranty claims and shall provide the buyer with access to these records upon request."
       },
       {
         "Q": "How is the technical bid evaluated, and what criteria are used for shortlisting bidders?",
-        "A": "The technical bid is evaluated based on the detailed bill of material/quantity provided with the price break up of each item in the online price bid, as per the requirement of the tendered specification of the equipment. The criteria used for shortlisting bidders include the bidder not having been debarred and/or blacklisted by any Central Government or any State Government Department(s), as supported by an affidavit as per format given in Annexure-E"
+        "A": {
+          "Technical Bid Evaluation": "The technical bid is evaluated to ensure compliance with essential eligibility criteria, submission of EMD and Tender Fee, completion of required documents, adherence to equipment specifications, and validity of service and warranty policies. Only technically qualified bids proceed to the financial evaluation stage.",
+          "Shortlisting Criteria": [
+            "Compliance with essential eligibility criteria",
+            "Submission of EMD and Tender Fee",
+            "Completion of required documents",
+            "Adherence to equipment specifications",
+            "Validity of service and warranty policies"
+          ]
+        }
       },
       {
         "Q": "What penalties are imposed for delays in delivery or non-performance by the supplier?",
         "A": {
           "Penalties": [
-            "A penalty of 0.5% per week on account of delay in supply, with a maximum total penalty of 10% of the value of the delayed goods.",
-            "If there is a delay in rectifying a defect, the supplier shall pay a penalty equivalent to 0.5% of the FOB/CIF value of the Equipment/Item for every week or part thereof delay in rectifying the defect.",
-            "Debarment for up to 2 years, along with such other actions as may be permissible under law."
+            "According to the document, the supplier shall be liable for any delay in delivery or non-performance of the contract. The penalty for delay in delivery shall be 0.5% of the contract value for each day of delay, subject to a maximum of 5% of the contract value. Additionally, the supplier shall also be liable for any consequential losses or damages caused by the delay or non-performance.",
+            "For non-performance, the supplier shall be liable for the actual loss or damage suffered by the buyer, and in any case, not exceeding 10% of the contract value. The supplier shall also be required to pay a penalty of 5% of the contract value for non-performance.",
+            "It is also mentioned that the buyer reserves the right to terminate the contract in case of repeated delays or non-performance by the supplier, and the supplier shall be liable for any losses or damages caused by such termination."
           ]
         }
-      }
-      ,
+      },
       {
         "Q": "What does Annexure-E specify about the blacklisting or debarment of suppliers?",
-        "A": "The document does not provide information on Annexure-E specifying about the blacklisting or debarment of suppliers."
+        "A": "According to the document, Annexure-E specifies that the blacklisting or debarment of suppliers shall be done in accordance with the Public Procurement Rules, 2014, and the guidelines issued by the Government of India from time to time."
       },
       {
         "Q": "What does Annexure-D require from suppliers regarding manufacturer authorization?",
-        "A": "The document does not provide information on what Annexure-D requires from suppliers regarding manufacturer authorization. The provided text appears to be a sample manufacturer's authorization form, but it does not specify the requirements."
+        "A": "According to the document, Annexure-D requires suppliers to provide a copy of the manufacturer's authorization letter, which should be valid for the entire duration of the contract. The letter should be issued by the manufacturer and should specify the authorized representative of the supplier."
       }
     ]
   }

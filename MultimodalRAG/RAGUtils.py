@@ -173,7 +173,7 @@ if __name__ == '__main__':
     path = 'data/document.pdf'
     
     # Import the extraction function
-    from DataExtraction.dataPreprocessing_improved import text_table_img
+    from DataExtraction.dataPreprocessing import text_table_img
     
     # Extract content from document
     tables, texts, images, text_summaries, table_summaries, image_summaries = text_table_img(path)
